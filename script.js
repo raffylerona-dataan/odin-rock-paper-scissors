@@ -1,5 +1,5 @@
 // The Odin Project - Rock Paper Scissors
-// This version is played using prompts and the browser console, not a GUI.
+
 
 function getComputerChoice() {
   const randomNumber = Math.floor(Math.random() * 3);
